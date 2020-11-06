@@ -1,2 +1,2 @@
 # Aulascurso
-Aulas antigas
+Exercícios de desáfios básicos em PHP, python.
